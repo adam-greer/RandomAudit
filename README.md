@@ -1,2 +1,4 @@
 # RandomAudit
- needed a way to take csv file and then randomize those entries and audit 10%.
+ 
+ Purpose
+   I needed a way to take csv file of incidents and then randomize the entries.
